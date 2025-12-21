@@ -41,7 +41,7 @@
 ---
 
 <div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Github-README-Stats</h2>
+    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Github README Stats</h2>
     <br />
     <div style="text-align: left;">
     <div style="display: flex; align-items: center; margin-top: 30px;">
