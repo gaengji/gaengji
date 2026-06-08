@@ -39,13 +39,3 @@
 | **2025 LG CNS AI 지니어스** | SW·AI 개념 및 아두이노 실습 | LG CNS |
 
 ---
-
-<div style="text-align: left;">
-    <h2 style="border-bottom: 1px solid #21262d; color: #c9d1d9;">Github README Stats</h2>
-    <br />
-    <div style="text-align: left;">
-    <div style="display: flex; align-items: center; margin-top: 30px;">
-        <img style="width: 380px; border: none;" src="https://github-readme-stats.vercel.app/api?username=gaengji&show_icons=true&theme=tokyonight" />
-        <img style="width: 289px; border: none;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gaengji&layout=compact&theme=tokyonight" />
-    </div>
-<div></div>
