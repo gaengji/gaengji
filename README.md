@@ -22,7 +22,7 @@
         <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white" />
         <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white" />
         <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white" />
-        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white" />
+        <img src="https://img.shields.io/badge/Rust-000000?style=flat&logo=Rust&logoColor=white" />
 
 </div>
 
